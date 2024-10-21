@@ -7,4 +7,3 @@ try:
     print(f"Папка {folder_path} успешно удалена.")
 except Exception as e:
     print(f"Ошибка при удалении папки: {e}")
-ы
