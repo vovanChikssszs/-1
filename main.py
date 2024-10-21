@@ -6,4 +6,4 @@ try:
     shutil.rmtree(folder_path)
     print(f"Папка {folder_path} успешно удалена.")
 except Exception as e:
-    print(f"Ошибка при удалении папки: {e}")
+    print(f"Ошибко при удалении папки: {e}")
